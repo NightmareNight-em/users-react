@@ -5,7 +5,6 @@ A simple react application to display user information.
 
 #### Run following commands on the directory where you have downloaded this repository.
 
-- npm init vite@latest
 - npm install
 - npm run dev
   
